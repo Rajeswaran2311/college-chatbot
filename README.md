@@ -23,7 +23,7 @@ This project aims to develop a chatbot that can assist users with college-relate
 
 2. Navigate to the project directory:
     ```bash
-    cd College-Related-Query-Chatbot
+    cd Collegey-Chatbot
     ```
 
 3. Install the required dependencies:
